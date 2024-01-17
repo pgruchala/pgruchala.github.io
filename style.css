@@ -1,0 +1,14 @@
+.image{
+    width: 100vw;
+    height: 100px;
+}
+.table{
+    color: blue;
+    background-color: pink;
+}   
+td{
+    border:  5px solid brown;
+}
+th{
+    border: 3px solid yellow;
+}
